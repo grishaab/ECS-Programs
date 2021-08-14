@@ -1,0 +1,23 @@
+AIRPORT       ADK  ADAK                                               2392.0 NM
+  Runway: 05/23    length: 7790 ft
+AIRPORT       MBSC SOUTH CAICOS INTL                                  2758.3 NM
+  Runway: 11/29    length: 6007 ft
+SEAPLANE BASE Z33  ALEKNAGIK                                          1870.7 NM
+  Runway: E/W      length: 10000 ft
+AIRPORT       MBPV PROVIDENCIALES INTL                                2715.4 NM
+  Runway: 10/28    length: 7598 ft
+SEAPLANE BASE AK81 AMOOK BAY                                          1687.0 NM
+  Runway: N/S      length: 8000 ft
+AIRPORT       TNCM PRINCESS JULIANA INTL                              3268.6 NM
+  Runway: 10/28    length: 7546 ft
+AIRPORT       ANC  TED STEVENS ANCHORAGE INTL                         1711.9 NM
+  Runway: 07L/25R  length: 10600 ft
+  Runway: 07R/25L  length: 12400 ft
+  Runway: 15/33    length: 10960 ft
+AIRPORT       EDF  ELMENDORF AFB                                      1710.6 NM
+  Runway: 06/24    length: 10000 ft
+  Runway: 16/34    length: 7493 ft
+AIRPORT       TXKF L F WADE INTL                                      2762.4 NM
+  Runway: 12/30    length: 9669 ft
+SEAPLANE BASE AGN  ANGOON                                             1238.7 NM
+  Runway: NW/SE    length: 10000 ft

@@ -5,3 +5,6 @@ Every person in this population have information about who they regularly visit 
 Once a person is infected, they will have a 3-day incubation period where they are not contageous. 
 
 The challenge of this program was to write a Dijkstra's algorithm such that it runs faster than the class instructor, Sean Davis. 
+
+Total CPU Time: Yours 2.89813  Sean's: 3.46
+Total score: 52/50
